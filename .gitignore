@@ -1,0 +1,33 @@
+# Data files (too large for GitHub)
+Data/
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model checkpoints
+*.h5
+*.pkl
+*.joblib
+models/
+
+# Logs
+*.log

@@ -41,7 +41,7 @@ This project uses machine learning and deep learning to detect fraudulent credit
 **Note:** Requires Python 3.10–3.12 (TensorFlow doesn't support 3.13+)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CreditCard_Fraud_Detection.git
+git clone https://github.com/rachananijalingappa/CreditCard_Fraud_Detection.git
 cd CreditCard_Fraud_Detection
 python -m venv venv
 venv\Scripts\activate

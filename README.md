@@ -56,4 +56,4 @@ NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, Imbalanced-learn, XGBo
 
 ## Author
 
-Rachana — MSc Artificial Intelligence
+Rachana

@@ -189,4 +189,4 @@ MIT
 
 ---
 
-*Built by [Rachana Nijalingappa](https://github.com/rachananijalingappa) as part of a portfolio project series.*
+*Built by [Rachana Nijalingappa](https://github.com/rachananijalingappa)*

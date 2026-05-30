@@ -4,6 +4,8 @@
 
 Built with **scikit-learn** · **XGBoost** · **LightGBM** · **TensorFlow** · **SHAP** · **Optuna**
 
+📓 **[View Notebook on nbviewer](https://nbviewer.org/github/rachananijalingappa/CreditCard_Fraud_Detection/blob/main/credit_card_fraud_detection.ipynb)** *(if GitHub preview fails)*
+
 ---
 
 ## 📊 The Problem: Extreme Class Imbalance

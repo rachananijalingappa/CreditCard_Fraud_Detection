@@ -150,7 +150,20 @@ CreditCard_Fraud_Detection/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── credit_card_fraud_detection.ipynb   # Main notebook
+├── credit_card_fraud_detection.ipynb   # Main notebook (imports from src/)
+├── src/                                # Modular Python scripts
+│   ├── __init__.py
+│   ├── config.py                       # Constants and settings
+│   ├── data_loader.py                  # Data loading and cleaning
+│   ├── preprocessing.py                # Feature engineering, scaling, SMOTE
+│   ├── visualization.py                # All EDA and result plots
+│   ├── clustering.py                   # K-Means, DBSCAN, Isolation Forest
+│   ├── models.py                       # Classical ML + Ensemble + Optuna
+│   ├── deep_learning.py                # MLP, Autoencoder, LSTM, 1D-CNN
+│   └── evaluation.py                   # Metrics, ROC/PR curves, SHAP
+├── tests/                              # Unit tests
+│   ├── __init__.py
+│   └── test_preprocessing.py           # 17 tests for preprocessing pipeline
 ├── Data/                               # Dataset (not committed — download from Kaggle)
 │   └── creditcard.csv
 └── results/                            # All visualisations
